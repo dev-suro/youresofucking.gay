@@ -1,0 +1,6 @@
+h1 {
+  font-size: 72px;
+  background: radial-gradient(circle, rgba(0,255,250,1) 0%, rgba(125,238,133,1) 50%, rgba(255,0,226,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
